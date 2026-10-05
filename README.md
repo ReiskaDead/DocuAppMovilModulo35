@@ -8,7 +8,7 @@ Esta es la documentación técnica formal de la aplicación móvil desarrollada 
 
 # Portal Web de Documentación - Aplicación Móvil
 
-**Sitio Web en Vivo:** [Haz clic aquí para ver la Documentación Publicada](https://ReiskaDead.github.io/DocuAppMovilModulo35/)
+**Sitio Web en Vivo:** [https://reiskadead.github.io/DocuAppMovilModulo35/]
 
 ## Índice de Documentación
 - [Ver Arquitectura y Despliegue](docs/arquitectura_despliegue.md)
