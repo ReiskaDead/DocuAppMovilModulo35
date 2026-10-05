@@ -1,0 +1,18 @@
+site_name: Portal Oficial de Documentación - App Móvil
+site_description: Manuales técnicos, guías de instalación y arquitectura del sistema.
+site_author: ReiskaDead
+
+theme:
+  name: material
+  language: es
+
+nav:
+  - Inicio: index.md
+  - Manuales Técnicos:
+      - Arquitectura y Despliegue: arquitectura_despliegue.md
+      - Casos de Uso: casos_de_uso.md
+      - Diagrama de Secuencia: secuencia.md
+      - Guía de Instalación: instalacion_movil.md
+      - Especificación de API: api_endpoints.md
+      - Manual de Usuario: manual_usuario.md
+      - Seguridad y Mantenimiento: seguridad.md
