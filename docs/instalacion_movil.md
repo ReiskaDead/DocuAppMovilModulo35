@@ -1,12 +1,19 @@
-# Guía de Instalación y Configuración del Entorno Móvil
+# 📲 Guía de Instalación y Entorno Móvil
 
-## 1. Requisitos del Dispositivo / Emulador
-* **Sistema Operativo:** Android 8.0 (API Nivel 26) o superior / iOS 12.0+.
-* **Almacenamiento Libre:** Mínimo 100 MB.
-* **Conectividad:** Acceso a red Internet / Wi-Fi para consumo de la API.
+## 1. Requisitos Técnicos del Dispositivo
 
-## 2. Procedimiento de Instalación para Pruebas
-1. Descargar el archivo ejecutable de la aplicación (`.apk` para Android).
-2. Habilitar la opción de "Instalación desde fuentes desconocidas" en los ajustes de seguridad del dispositivo.
-3. Ejecutar el instalador y conceder los permisos solicitados (Cámara, Almacenamiento, Ubicación, según corresponda a tu app).
-4. Abrir la aplicación y verificar la conexión inicial con el servidor.
+* **Android:** Versión 8.0 (Oreo / API Nivel 26) o superior.
+* **iOS:** Versión 12.0 o superior.
+* **Espacio Libre:** Mínimo 100 MB.
+* **Conectividad:** Acceso a red móvil 4G/5G o Wi-Fi con salida a Internet.
+
+---
+
+## 2. Instalación Paso a Paso (Android APK)
+
+1. **Descarga del Instalador:** Obtén el archivo `app-release.apk` desde el repositorio oficial.
+2. **Permisos de Fuentes Desconocidas:** 
+   * Ve a **Ajustes > Seguridad / Privacidad**.
+   * Activa la opción **Permitir la instalación de aplicaciones de fuentes desconocidas**.
+3. **Ejecución e Instalación:** Toca el archivo `.apk` descargado y confirma la instalación.
+4. **Permisos Iniciales:** Al abrir la app por primera vez, concede permisos de Internet y almacenamiento según se solicite.
